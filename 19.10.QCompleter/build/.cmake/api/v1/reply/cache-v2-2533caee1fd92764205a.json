@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/xy030/Desktop/Qt/18.4.QCheckBox/build"
+			"value" : "c:/Users/xy030/Desktop/Qt/19.10.QCompleter/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -471,7 +471,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/xy030/Desktop/Qt/18.4.QCheckBox/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/xy030/Desktop/Qt/19.10.QCompleter/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -555,7 +555,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/xy030/Desktop/Qt/18.4.QCheckBox"
+			"value" : "C:/Users/xy030/Desktop/Qt/19.10.QCompleter"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -759,7 +759,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/QCheckBoxTutorial"
+			"value" : "C:/Program Files (x86)/QCompleterTutorial"
 		},
 		{
 			"name" : "CMAKE_INSTALL_RUNSTATEDIR",
@@ -1067,7 +1067,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "QCheckBoxTutorial"
+			"value" : "QCompleterExample"
 		},
 		{
 			"name" : "CMAKE_PROJECT_SPDX_LICENSE",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Qt/Tools/mingw1310_64/bin/windres.exe"
+			"value" : "C:/Qt/Tools/mingw1120_64/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1522,7 +1522,7 @@
 			"value" : "1"
 		},
 		{
-			"name" : "QCheckBoxTutorial_BINARY_DIR",
+			"name" : "QCompleterExample_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1531,10 +1531,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/xy030/Desktop/Qt/18.4.QCheckBox/build"
+			"value" : "C:/Users/xy030/Desktop/Qt/19.10.QCompleter/build"
 		},
 		{
-			"name" : "QCheckBoxTutorial_IS_TOP_LEVEL",
+			"name" : "QCompleterExample_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1546,7 +1546,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "QCheckBoxTutorial_SOURCE_DIR",
+			"name" : "QCompleterExample_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1555,7 +1555,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/xy030/Desktop/Qt/18.4.QCheckBox"
+			"value" : "C:/Users/xy030/Desktop/Qt/19.10.QCompleter"
+		},
+		{
+			"name" : "QCompleterTutorial_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/xy030/Desktop/Qt/19.10.QCompleter/build"
+		},
+		{
+			"name" : "QCompleterTutorial_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "QCompleterTutorial_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/xy030/Desktop/Qt/19.10.QCompleter"
 		},
 		{
 			"name" : "QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH",
@@ -6119,7 +6155,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files (x86)/QCheckBoxTutorial"
+			"value" : "C:/Program Files (x86)/QCompleterTutorial"
 		}
 	],
 	"kind" : "cache",

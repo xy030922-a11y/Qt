@@ -264,7 +264,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-std=c++17"
+					"fragment" : "-g -std=c++17"
 				}
 			],
 			"defines" : 
@@ -284,10 +284,6 @@
 				{
 					"backtrace" : 2,
 					"define" : "QT_NEEDS_QMAIN"
-				},
-				{
-					"backtrace" : 2,
-					"define" : "QT_NO_DEBUG"
 				},
 				{
 					"backtrace" : 2,
@@ -367,6 +363,10 @@
 	{
 		"commandFragments" : 
 		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
 			{
 				"fragment" : "-mwindows",
 				"role" : "flags"
