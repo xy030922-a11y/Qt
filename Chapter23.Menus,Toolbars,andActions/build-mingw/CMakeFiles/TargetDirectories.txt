@@ -1,0 +1,3 @@
+C:/Users/xy030/Desktop/Qt/Chapter23.Menus,Toolbars,andActions/build-mingw/CMakeFiles/MenusToolbarsActionsExample.dir
+C:/Users/xy030/Desktop/Qt/Chapter23.Menus,Toolbars,andActions/build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/xy030/Desktop/Qt/Chapter23.Menus,Toolbars,andActions/build-mingw/CMakeFiles/rebuild_cache.dir
