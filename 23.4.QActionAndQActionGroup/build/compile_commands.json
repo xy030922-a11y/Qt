@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/xy030/Desktop/Qt/23.4.QActionAndQActionGroup/build",
-  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -isystem C:/Qt/6.5.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.5.3/mingw_64/include -isystem C:/Qt/6.5.3/mingw_64/include/QtCore -isystem C:/Qt/6.5.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.5.3/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=c++17 -o CMakeFiles\\QActionGroupExample.dir\\main.cpp.obj -c C:\\Users\\xy030\\Desktop\\Qt\\23.4.QActionAndQActionGroup\\main.cpp",
-  "file": "C:/Users/xy030/Desktop/Qt/23.4.QActionAndQActionGroup/main.cpp",
-  "output": "C:/Users/xy030/Desktop/Qt/23.4.QActionAndQActionGroup/build/CMakeFiles/QActionGroupExample.dir/main.cpp.obj"
-}
-]
