@@ -1,7 +1,7 @@
 # Qt 常用类教程目录 / Qt Common Classes Tutorial Contents
 
-> 本教程以 **Qt 6 + C++** 为主线，按照五个常用核心模块依次展开：`Qt Core`、`Qt GUI`、`Qt Widgets`、`Qt Network`、`Qt SQL`。  
-> This tutorial uses **Qt 6 + C++** and is organized around five commonly used core modules: `Qt Core`, `Qt GUI`, `Qt Widgets`, `Qt Network`, and `Qt SQL`.
+> 本教程以 **Qt 6 + C++** 为主线，依次介绍五个常用核心模块（`Qt Core`、`Qt GUI`、`Qt Widgets`、`Qt Network`、`Qt SQL`）以及 `Qt TextToSpeech` 语音合成模块。  
+> This tutorial uses **Qt 6 + C++** and covers five commonly used core modules (`Qt Core`, `Qt GUI`, `Qt Widgets`, `Qt Network`, and `Qt SQL`), followed by the `Qt TextToSpeech` speech-synthesis module.
 
 ## 教程导读 / Tutorial Guide
 
@@ -450,24 +450,41 @@
 
 ---
 
+## 第六篇：Qt TextToSpeech——文本转语音 / Part VI: Qt TextToSpeech — Speech Synthesis
+
+### 第 39 章：语音合成 / Chapter 39: Speech Synthesis
+
+1. Qt TextToSpeech 模块、后端与 CMake 配置 / The Qt TextToSpeech module, backends, and CMake configuration
+2. `QTextToSpeech`：创建语音合成器 / Creating a speech synthesizer
+3. `say()`：朗读文本 / Speaking text
+4. `QTextToSpeech::State`：状态与错误处理 / State and error handling
+5. 音量、语速与音调设置 / Configuring volume, rate, and pitch
+6. `QVoice`：枚举并选择语音 / Enumerating and selecting voices
+7. 语言与区域设置 / Language and locale selection
+8. 暂停、继续与停止朗读 / Pausing, resuming, and stopping speech
+9. 信号槽、队列朗读与界面联动 / Signals and slots, speech queues, and UI integration
+10. 平台语音引擎的部署与排错 / Deploying and troubleshooting platform speech engines
+
+---
+
 ## 综合项目篇 / Integrated Projects
 
-### 第 39 章：桌面记事本 / Chapter 39: Desktop Notepad
+### 第 40 章：桌面记事本 / Chapter 40: Desktop Notepad
 
 - 使用 `QMainWindow`、`QTextEdit`、`QFile`、`QSettings` / Use QMainWindow, QTextEdit, QFile, and QSettings
 - 实现文件编辑、最近文件、自动保存和界面配置 / Implement editing, recent files, auto-save, and UI settings
 
-### 第 40 章：网络下载器 / Chapter 40: Network Downloader
+### 第 41 章：网络下载器 / Chapter 41: Network Downloader
 
 - 使用 `QNetworkAccessManager`、`QNetworkReply`、`QSaveFile` / Use QNetworkAccessManager, QNetworkReply, and QSaveFile
 - 实现进度显示、取消下载、错误处理和断点续传 / Implement progress, cancellation, error handling, and resuming
 
-### 第 41 章：数据库管理工具 / Chapter 41: Database Management Tool
+### 第 42 章：数据库管理工具 / Chapter 42: Database Management Tool
 
 - 使用 `QSqlDatabase`、`QSqlTableModel`、`QTableView` / Use QSqlDatabase, QSqlTableModel, and QTableView
 - 实现增删改查、筛选、事务和数据导出 / Implement CRUD, filtering, transactions, and data export
 
-### 第 42 章：TCP 聊天工具 / Chapter 42: TCP Chat Application
+### 第 43 章：TCP 聊天工具 / Chapter 43: TCP Chat Application
 
 - 使用 `QTcpServer`、`QTcpSocket`、`QThread` / Use QTcpServer, QTcpSocket, and QThread
 - 实现客户端管理、消息协议、心跳和断线重连 / Implement client management, messaging, heartbeats, and reconnection
